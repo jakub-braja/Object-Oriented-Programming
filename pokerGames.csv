@@ -1,7 +1,8 @@
 numberOfGames,numberOfHands,numberOfPlayers,name
 1,100,3,'Game1' 
 4,200,4,'Game2'
-6,90,4,'Game3'
-3,70,2,'Game4'
+6.2,90,4,'Game3'
+3.0,70,2,'Game4'
 3,100,5,'Game5'
-2,50,5,'Game6
+2,50,5,'Game6'
+2.8,75,3,'Game7'
